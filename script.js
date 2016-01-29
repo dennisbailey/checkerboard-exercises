@@ -25,6 +25,18 @@ blackSquare.style.backgroundColor = "black";
 
 body.appendChild(redSquare);
 body.appendChild(blackSquare);
+body.appendChild(redSquare);
 
-var red = body.appendChild(redSquare);
-var black = body.appendChild(blackSquare);
+
+// var addRed = body.appendChild(redSquare);
+// var addBlack = body.appendChild(blackSquare);
+
+// var oddRow = function (num) {
+//   for (var i = 1; i <= num; i++) {
+//     (i % 2 === 0) ? body.appendChild(redSquare) : body.appendChild(blackSquare);
+//   }
+// };
+
+//oddRow(9);
+
+
